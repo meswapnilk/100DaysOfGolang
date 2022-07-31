@@ -3,6 +3,6 @@
 ## Usage/Examples
 
 ```go
-go run main.go
+go run main.go deck.go
 ```
 
